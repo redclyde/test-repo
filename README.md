@@ -1,6 +1,6 @@
 test-repo
 =========
 
-Figuring out github
-I am redclyde
-I am posting this.
+This is a test repo
+I am happy
+
