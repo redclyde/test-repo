@@ -2,5 +2,5 @@ test-repo
 =========
 
 This is a test repo
-I am wicked happy.
+I am super happy.
 
